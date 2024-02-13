@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pascual143&label=Profile%20views&color=0e75b6&style=flat" alt="pascual143" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pascual143" alt="pascual143" /></a> </p>
-
 - 🔭 I’m currently working on [Real Estate Software](https://github.com/pascual143/vilaseguranextjsnode)
 
 - 🌱 I’m currently learning **React, Python, Nodejs, Flask, Django**
@@ -29,3 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pascual143&show_icons=true&locale=en&layout=compact" alt="pascual143" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pascual143&show_icons=true&locale=en" alt="pascual143" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pascual143" alt="pascual143" /></a> </p>
+
