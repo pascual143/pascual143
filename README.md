@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pascual143.github.io/Portfolio2024/](https://pascual143.github.io/Portfolio2024/)
 
-- 💬 Ask me about **React, nextjs and Python**
+- 💬 Ask me about **JavaSccript, React, nextjs and Python**
 
 - 📫 How to reach me **pascual.vila.segura@gmail.com**
 
