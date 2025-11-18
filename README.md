@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pascual143&label=Profile%20views&color=0e75b6&style=flat" alt="pascual143" /> </p>
 
-- 🔭 I’m currently working on [Real Estate Software](https://github.com/pascual143/vilaseguranextjsnode)
+- 🔭 I’m currentl Leaeening  on [Real Estate Software](https://github.com/pascual143/vilaseguranextjsnode)
 
 - 🌱 I’m currently working **React, Python, Nodejs, Flask, Django**
 
