@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Real Estate Software](https://github.com/pascual143/vilaseguranextjsnode)
 
-- 🌱 I’m currently learning **React, Python, Nodejs, Flask, Django**
+- 🌱 I’m currently working **React, Python, Nodejs, Flask, Django**
 
 - 👨‍💻 All of my projects are available at [https://pascual143.github.io/Portfolio2024/](https://pascual143.github.io/Portfolio2024/)
 
